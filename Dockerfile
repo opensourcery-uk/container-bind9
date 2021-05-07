@@ -14,7 +14,7 @@ RUN chmod 755 /entrypoint.sh \
  && mkdir /entrypoint.d \
  && mkdir -p /run/named \
  && chown bind:bind /run/named \
- && chmod 0750 /run/bind
+ && chmod 0750 /run/named
 
 EXPOSE 53 53/udp
 
