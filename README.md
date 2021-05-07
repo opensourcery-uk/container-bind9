@@ -3,9 +3,9 @@
 This is a very simple bind9 container based on Debian.
 
 It was created primarily to use alongside the
-[samba container](https://github.com/opensourcery/container-samba) in the
+[samba container](https://github.com/opensourcery-uk/container-samba) in the
 Kubernetes manifests that make up the
-[samba-ad-dc](https://github.com/opensourcery/kubernetes-samba-ad-dc)
+[samba-ad-dc](https://github.com/opensourcery-uk/kubernetes-samba-ad-dc)
 repository.
 
 It could easily be used for other purposes.

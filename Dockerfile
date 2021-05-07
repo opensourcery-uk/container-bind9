@@ -1,5 +1,5 @@
 FROM debian:buster-slim
-LABEL maintainer "opensource@opensourcery.uk"
+LABEL maintainer "open.source@opensourcery.uk"
 
 ENV DEBIAN_FRONTEND noninteractive
 
